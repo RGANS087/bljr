@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bljr/static/css/main.94dba375.css",
+    "main.js": "/bljr/static/js/main.2f4e04b7.js",
+    "static/js/453.b2462386.chunk.js": "/bljr/static/js/453.b2462386.chunk.js",
+    "static/media/pulang.mp3": "/bljr/static/media/pulang.a0bf15b203ccc7817cda.mp3",
+    "static/media/serana.mp3": "/bljr/static/media/serana.79cce5760338f7e3260d.mp3",
+    "static/media/jakarta.mp3": "/bljr/static/media/jakarta.2cd2de7b6fb7dcbfbf30.mp3",
+    "static/media/pulang.jpeg": "/bljr/static/media/pulang.7ec76a64ae512d63b2a6.jpeg",
+    "static/media/own.png": "/bljr/static/media/own.68ec89efd62b5590235d.png",
+    "static/media/serana.jpeg": "/bljr/static/media/serana.1afda91c0879eaaaa4b7.jpeg",
+    "static/media/jakarta.jpeg": "/bljr/static/media/jakarta.8bb1ba6dddc16e891d21.jpeg",
+    "index.html": "/bljr/index.html",
+    "main.94dba375.css.map": "/bljr/static/css/main.94dba375.css.map",
+    "main.2f4e04b7.js.map": "/bljr/static/js/main.2f4e04b7.js.map",
+    "453.b2462386.chunk.js.map": "/bljr/static/js/453.b2462386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94dba375.css",
+    "static/js/main.2f4e04b7.js"
+  ]
+}
